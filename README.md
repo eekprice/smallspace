@@ -1,4 +1,5 @@
-# smallspace
+# Small Space
+
 <aside>
 🧠  **Core Problem Area**
 
@@ -38,3 +39,5 @@ A **“Private Digital Space”** platform focused on:
 - **Human-scale** → tailored to Dunbar’s number (close relationships you can *actually* manage)
 - **Trust & transparency** → oversight board, community rules, intentional use
 - **Never “grow at all costs”** → sustainable, human business model
+
+[SS Feature ideas](Small%20Space%201a16899ba7628076b58ffd7720dc796b/SS%20Feature%20ideas%201d26899ba762808ab13ff59e104697fb.csv)
