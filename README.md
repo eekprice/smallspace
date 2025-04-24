@@ -33,4 +33,6 @@ A **“Private Digital Space”** platform focused on:
 - **Trust & transparency** → oversight board, community rules, intentional use
 - **Never “grow at all costs”** → sustainable, human business model
 
+ ## Research
+ https://perfect-hardware-4d2.notion.site/1d26899ba762804fa792f82646367857?v=1d26899ba7628060b291000c503ae4b0&pvs=4
 
